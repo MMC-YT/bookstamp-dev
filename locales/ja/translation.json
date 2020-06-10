@@ -1,0 +1,29 @@
+{
+  "tool": {
+    "backToCollection": "My Collection",
+    "createCollection": "Create",
+    "saveCollection": "Save",
+    "shareCollection": "Share",
+    "report": "Report",
+    "copySuccess": "Success! 👏",
+    "copyFail": "Fail to copy 🤒",
+    "copyTitle": "Shared Link",
+    "copyInfo": "Please copy the following link",
+    "saveSuccess": "Success! Only the current browser can load the saved data."
+  },
+  "search": {
+    "placeholder": "Seach...",
+    "emptyResult": "There's no result. Did you enter the name correctly?(´･_･`)"
+  },
+  "select": {
+    "placeholder": "Filter...",
+    "all": "All",
+    "owned": "Marked",
+    "notOwned": "Unmarked"
+  },
+  "button": {
+    "close": "Close",
+    "copy": "Copy"
+  },
+  "copyright": "&copy;2020 Rolaiba v2.0.0"
+}
