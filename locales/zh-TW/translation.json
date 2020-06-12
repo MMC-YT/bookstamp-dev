@@ -13,7 +13,7 @@
   },
   "search": {
     "placeholder": "請輸入傢俱名稱",
-    "emptyResult": "沒有搜尋到傢俱唷，傢俱名稱有沒有打錯呢?(´･_･`)"
+    "emptyResult": "沒有搜尋到傢俱唷，\n傢俱名稱有沒有打錯呢?(´･_･`)"
   },
   "select": {
     "placeholder": "篩選",
@@ -25,7 +25,7 @@
     "close": "關閉",
     "copy": "複製"
   },
-  "copyright": "© 2020 螺絲起子工作室 v2.0.0",
+  "copyright": "© 2020 螺絲起子工作室 v{{version}}",
   "collection": {
     "21478": "空氣循環扇",
     "21479": "中音薩克斯風",

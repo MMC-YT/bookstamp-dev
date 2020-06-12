@@ -1,6 +1,6 @@
 {
   "tool": {
-    "backToCollection": "My Collection",
+    "backToCollection": "Collection",
     "createCollection": "Create",
     "saveCollection": "Save",
     "shareCollection": "Share",
@@ -9,11 +9,11 @@
     "copyFail": "Fail to copy 🤒",
     "copyTitle": "Shared Link",
     "copyInfo": "Please copy the following link",
-    "saveSuccess": "Success! Only the current browser can load the saved data."
+    "saveSuccess": "Only the current browser can load it."
   },
   "search": {
     "placeholder": "Seach...",
-    "emptyResult": "There's no result. Did you enter the name correctly?(´･_･`)"
+    "emptyResult": "There's no result. \nDid you enter the name correctly?(´･_･`)"
   },
   "select": {
     "placeholder": "Filter...",
@@ -25,7 +25,7 @@
     "close": "Close",
     "copy": "Copy"
   },
-  "copyright": "© 2020 Rolaiba v2.0.0",
+  "copyright": "© 2020 Rolaiba v{{version}}",
   "collection": {
     "21478": "air circulator",
     "21479": "alto saxophone",

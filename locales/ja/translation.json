@@ -1,19 +1,19 @@
 {
   "tool": {
-    "backToCollection": "マイコレクション",
+    "backToCollection": "収集物",
     "createCollection": "作成する",
-    "saveCollection": "セーブ",
+    "saveCollection": "保存",
     "shareCollection": "共有",
-    "report": "報告する",
+    "report": "レポート",
     "copySuccess": "成功！👏",
-    "copyFail": "コピーに失敗しました🤒",
+    "copyFail": "コビーが失敗しました🤒",
     "copyTitle": "共有リンク",
-    "copyInfo": "次のリンクをコピーしてください",
-    "saveSuccess": "成功！ 保存されたデータを読み込むことができるのは、現在のブラウザーのみです。"
+    "copyInfo": "リンクをコピーしてください",
+    "saveSuccess": "このブラウザのみ読み込むことができます。"
   },
   "search": {
     "placeholder": "検索...",
-    "emptyResult": "結果はありません。 名前を正しく入力しましたか？（ ´・_・ `）"
+    "emptyResult": "結果はありません。 \n名前を正しく入力しましたか？（ ´・_・ `）"
   },
   "select": {
     "placeholder": "フィルタ...",
@@ -25,7 +25,7 @@
     "close": "閉じる",
     "copy": "コピーする"
   },
-  "copyright": "© 2020 Rolaiba v2.0.0",
+  "copyright": "© 2020 Rolaiba v{{version}}",
   "collection": {
     "21478": "サーキュレーター",
     "21479": "アルトサックス",
