@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "http://nookstamp.com/nookstamp-dev/static/css/main.6692e074.chunk.css",
-    "main.js": "http://nookstamp.com/nookstamp-dev/static/js/main.47b1f2f5.chunk.js",
-    "main.js.map": "http://nookstamp.com/nookstamp-dev/static/js/main.47b1f2f5.chunk.js.map",
+    "main.js": "http://nookstamp.com/nookstamp-dev/static/js/main.664f6b6e.chunk.js",
+    "main.js.map": "http://nookstamp.com/nookstamp-dev/static/js/main.664f6b6e.chunk.js.map",
     "runtime-main.js": "http://nookstamp.com/nookstamp-dev/static/js/runtime-main.7ed272a3.js",
     "runtime-main.js.map": "http://nookstamp.com/nookstamp-dev/static/js/runtime-main.7ed272a3.js.map",
     "static/css/2.3e659a4a.chunk.css": "http://nookstamp.com/nookstamp-dev/static/css/2.3e659a4a.chunk.css",
-    "static/js/2.8e06b93c.chunk.js": "http://nookstamp.com/nookstamp-dev/static/js/2.8e06b93c.chunk.js",
-    "static/js/2.8e06b93c.chunk.js.map": "http://nookstamp.com/nookstamp-dev/static/js/2.8e06b93c.chunk.js.map",
+    "static/js/2.9d4f8e1a.chunk.js": "http://nookstamp.com/nookstamp-dev/static/js/2.9d4f8e1a.chunk.js",
+    "static/js/2.9d4f8e1a.chunk.js.map": "http://nookstamp.com/nookstamp-dev/static/js/2.9d4f8e1a.chunk.js.map",
     "index.html": "http://nookstamp.com/nookstamp-dev/index.html",
-    "precache-manifest.467a251f0a31ffd7cd434cd88d1271c6.js": "http://nookstamp.com/nookstamp-dev/precache-manifest.467a251f0a31ffd7cd434cd88d1271c6.js",
+    "precache-manifest.d943e4a682647d0f082f365c742d6a64.js": "http://nookstamp.com/nookstamp-dev/precache-manifest.d943e4a682647d0f082f365c742d6a64.js",
     "service-worker.js": "http://nookstamp.com/nookstamp-dev/service-worker.js",
     "static/css/2.3e659a4a.chunk.css.map": "http://nookstamp.com/nookstamp-dev/static/css/2.3e659a4a.chunk.css.map",
     "static/css/main.6692e074.chunk.css.map": "http://nookstamp.com/nookstamp-dev/static/css/main.6692e074.chunk.css.map",
-    "static/js/2.8e06b93c.chunk.js.LICENSE.txt": "http://nookstamp.com/nookstamp-dev/static/js/2.8e06b93c.chunk.js.LICENSE.txt",
+    "static/js/2.9d4f8e1a.chunk.js.LICENSE.txt": "http://nookstamp.com/nookstamp-dev/static/js/2.9d4f8e1a.chunk.js.LICENSE.txt",
     "static/media/background.png": "http://nookstamp.com/nookstamp-dev/static/media/background.9c446b5d.png",
     "static/media/index.css": "http://nookstamp.com/nookstamp-dev/static/media/element-icons.d2f69a92.woff",
     "static/media/getFetch.cjs": "http://nookstamp.com/nookstamp-dev/static/media/getFetch.5e98861f.cjs"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.7ed272a3.js",
     "static/css/2.3e659a4a.chunk.css",
-    "static/js/2.8e06b93c.chunk.js",
+    "static/js/2.9d4f8e1a.chunk.js",
     "static/css/main.6692e074.chunk.css",
-    "static/js/main.47b1f2f5.chunk.js"
+    "static/js/main.664f6b6e.chunk.js"
   ]
 }
