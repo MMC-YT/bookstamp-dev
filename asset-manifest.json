@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "http://nookstamp.com/nookstamp-dev/static/css/main.e17fdb8c.chunk.css",
-    "main.js": "http://nookstamp.com/nookstamp-dev/static/js/main.905b9592.chunk.js",
-    "main.js.map": "http://nookstamp.com/nookstamp-dev/static/js/main.905b9592.chunk.js.map",
+    "main.js": "http://nookstamp.com/nookstamp-dev/static/js/main.21462b43.chunk.js",
+    "main.js.map": "http://nookstamp.com/nookstamp-dev/static/js/main.21462b43.chunk.js.map",
     "runtime-main.js": "http://nookstamp.com/nookstamp-dev/static/js/runtime-main.7ed272a3.js",
     "runtime-main.js.map": "http://nookstamp.com/nookstamp-dev/static/js/runtime-main.7ed272a3.js.map",
     "static/css/2.3e659a4a.chunk.css": "http://nookstamp.com/nookstamp-dev/static/css/2.3e659a4a.chunk.css",
     "static/js/2.cec532ef.chunk.js": "http://nookstamp.com/nookstamp-dev/static/js/2.cec532ef.chunk.js",
     "static/js/2.cec532ef.chunk.js.map": "http://nookstamp.com/nookstamp-dev/static/js/2.cec532ef.chunk.js.map",
     "index.html": "http://nookstamp.com/nookstamp-dev/index.html",
-    "precache-manifest.d100b7adb8d791da2afd661655e35a1f.js": "http://nookstamp.com/nookstamp-dev/precache-manifest.d100b7adb8d791da2afd661655e35a1f.js",
+    "precache-manifest.17609c849d1c119c17ed2e8406a3def3.js": "http://nookstamp.com/nookstamp-dev/precache-manifest.17609c849d1c119c17ed2e8406a3def3.js",
     "service-worker.js": "http://nookstamp.com/nookstamp-dev/service-worker.js",
     "static/css/2.3e659a4a.chunk.css.map": "http://nookstamp.com/nookstamp-dev/static/css/2.3e659a4a.chunk.css.map",
     "static/css/main.e17fdb8c.chunk.css.map": "http://nookstamp.com/nookstamp-dev/static/css/main.e17fdb8c.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.3e659a4a.chunk.css",
     "static/js/2.cec532ef.chunk.js",
     "static/css/main.e17fdb8c.chunk.css",
-    "static/js/main.905b9592.chunk.js"
+    "static/js/main.21462b43.chunk.js"
   ]
 }
